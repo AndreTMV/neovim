@@ -1,0 +1,21 @@
+!SESSION 2025-07-14 21:59:31.880 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=21.0.7
+java.vendor=Homebrew
+BootLoader constants: OS=macosx, ARCH=aarch64, WS=cocoa, NL=es_419
+Command-line arguments:  -data 
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-07-14 21:59:32.835
+!MESSAGE class org.eclipse.jdt.ls.core.internal.JavaLanguageServerPlugin is started
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-07-14 21:59:32.860
+!MESSAGE Started org.eclipse.buildship.core 16ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-07-14 21:59:32.860
+!MESSAGE Started org.eclipse.m2e.core 0ms
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-07-14 21:59:32.922
+!MESSAGE Main thread is waiting
+
+!ENTRY org.eclipse.jdt.ls.core 1 0 2025-07-14 21:59:33.202
+!MESSAGE ProjectRegistryRefreshJob finished 342ms
